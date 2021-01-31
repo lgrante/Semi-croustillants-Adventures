@@ -1,0 +1,19 @@
+{
+  "name": "semi-croustillants-adventures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgrante/Semi-croustillants-Adventures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgrante/Semi-croustillants-Adventures/issues"
+  },
+  "homepage": "https://github.com/lgrante/Semi-croustillants-Adventures#readme"
+}
